@@ -16,4 +16,9 @@ Der DS enthält personenbezogene Daten wie Alter, Beruf, Familienstand und finan
 Nach absprache mit Herr Colic, habe ich mich dazu entschieden den Datensatz zu ändern, da ich den neun viel spannendern finde und es mehr Daten hat mit denen ich arbeiten kann. 
 
 In diesem neunen Datensatz geht es um Depressionen, ich weiss das ist jetzt nicht ein sonders glückliches Thema, jedoch ist es sehr spannend für die Medizin Beispielsweise, um frühzeitig Person zu erkennen die Depressiv sind und man ihnen die nöige Hilfe geben kann. In diesem DS handelt es sich nur um Studenten von Indien, das heisst ich kann sie nicht eins zu eins mit den Student von der Schweiz vergleichen, doch es ist immernoch spannend diese Daten zu überarbeiten. Ich habe vershciedenste Spalten wie Alter, Stadt, Work Pressure, die selbsterklärend ist. Das einzige was vielleicht nicht so klar ist, ist der CGPA das sind im Grund einfach wie unsere Schulnoten in diesen Bild sieht man es gut
+
 <img width="714" alt="image" src="https://github.com/user-attachments/assets/a99b0ba6-1c44-43e4-9a9a-e6121b36c4b6" />
+
+## Datenschutz 
+
+Der Datensatz enthält anonymisierte Informationen zu Depressionen unter Studierenden, darunter demografische Daten, akademische Leistung, Lebensstilfaktoren und Antworten auf standardisierte Depressionsskalen. Um den Datenschutz zu gewährleisten, wurden alle persönlich identifizierbaren Daten entfernt, und die Studierenden gaben ihre informierte Zustimmung zur Nutzung. Die Speicherung erfolgt sicher, und der Datensatz wird nicht aktualisiert, um zusätzliche Risiken zu minimieren. Die Veröffentlichung unter der Apache 2.0 Lizenz stellt eine transparente Nutzung sicher. Forschende sollten stets ethische Richtlinien einhalten und Datenschutzvorschriften respektieren, um die sensiblen Informationen verantwortungsvoll zu nutzen.
